@@ -328,7 +328,7 @@ header input{
         padding: 8px 4px;
         margin-right: 150px;
         font-size: 20px;
-/*         text-align: center; */
+       text-align: center;
         color: black;
         background: var(--blue);
     }
